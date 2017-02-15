@@ -1,0 +1,36 @@
+.form-group {
+    width: 30%;
+}
+
+.jumbotron {
+    background-color: #262626;
+}
+
+.jumbotron h1 {
+    font-family: "Garamond";
+    color: #bce8f1;
+}
+
+.container-fluid img {
+    width: 460px;
+    height: 460px;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 250px;
+    height: 250px;
+
+}
+
+.flex-item {
+    background-color: #a6e1ec;
+    width: auto;
+    height: auto;
+    margin: 10px;
+}
+.flex-item img {
+    width: 200px;
+    height: 200px;
+}
